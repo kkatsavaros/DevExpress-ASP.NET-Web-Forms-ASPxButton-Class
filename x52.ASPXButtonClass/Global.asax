@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="x52.ASPXButtonClass.Global_asax" Language="C#" %>
